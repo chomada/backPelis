@@ -1,7 +1,7 @@
 const userContent=[{
     "id": 1,
     "nickname": "ajic_12",
-    "email": "hola1@gmail.com",
+    "email": "user@gmail.com",
     "password": "123456"
   },
   {
