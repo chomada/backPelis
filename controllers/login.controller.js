@@ -26,4 +26,6 @@ export const validateCredentials = (req, res) => {
         console.log("invalido")
         console.log(req.body)
     }
+
+  
 }
