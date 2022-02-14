@@ -2,14 +2,14 @@ const movieContent=[{
   "id": 1,
   "name": "Star Wars",
   "duration": 89,
-  "description": "aaaa",
+  "description": "Episode III",
   "image": "sw.jpg"
 },
 {
   "id": 2,
   "name": "Batman",
   "duration": 142,
-  "description": "eeeee",
+  "description": "The joker",
   "image": "batman.jpg"
 }
 
